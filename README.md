@@ -28,6 +28,7 @@ List Example :
 email@gmail.com|password
 10000423445521|password
 user.name12|password
+085xxxxxx12|password
 
 Author   : Angga Kurniawan
 Team     : AVSID
